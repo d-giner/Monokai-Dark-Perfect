@@ -1,0 +1,28 @@
+{
+  "name": "monokai-dark-perfect",
+  "publisher": "itsnineteen",
+  "displayName": "Monokai Dark Perfect",
+  "description": "Improved our loved Monokai Dark.",
+  "icon": "media/icon.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark Perfect",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Dark Perfect-color-theme.json"
+      },
+      {
+        "label": "Monokai Dark Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Dark Forest-color-theme.json"
+      }
+    ]
+  }
+}
