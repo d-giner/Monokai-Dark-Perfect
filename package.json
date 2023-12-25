@@ -1,15 +1,34 @@
 {
   "name": "monokai-dark-perfect",
-  "publisher": "itsnineteen",
+  "publisher": "d-giner",
   "displayName": "Monokai Dark Perfect",
-  "description": "Improved our loved Monokai Dark.",
-  "icon": "media/icon.png",
+  "description": "Our loved Monokai Dark but improved.",
+  "icon": "media/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d-giner/Monokai-Dark-Perfect.git"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Visualization"
+  ],
+  "keywords": [
+    "Monokai Dark",
+    "perfect",
+    "Monokai",
+    "Dark",
+    "Darcula",
+    "syntax highlighting",
+    "color-theme",
+    "darker",
+    "forest",
+    "colorful",
+    "vibrant",
+    "night"
   ],
   "contributes": {
     "themes": [

@@ -1,12 +1,12 @@
 {
 	"name": "Monokai Dark Perfect",
 	"colors": {
+		"activityBarBadge.background": "#007acc",
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
+		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editorIndentGuide.activeBackground1": "#3aa7f0ad",
 		"statusBarItem.remoteBackground": "#16825d",
-		"editor.inactiveSelectionBackground": "#3a3d41",
 	},
 	"tokenColors": [
 		{
